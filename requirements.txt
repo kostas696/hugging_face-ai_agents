@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-huggingface
+langchain-google-genai
+langchain-community
+huggingface_hub
+sentence-transformers
+faiss-cpu
+python-dotenv
+gradio[oauth]
+requests
+pillow
+arxiv
